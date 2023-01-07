@@ -8,25 +8,25 @@
 :root {
     --text-color: #ED145B;
     --text-color-hover: #ffff;
-    --bg-url: url(/assets/dark-backgroung.svg);
-    --bg-url-mobile: url(/assets/dark-background-mobile.svg);
+    --bg-url: url(assets/dark-backgroung.svg);
+    --bg-url-mobile: url(assets/dark-background-mobile.svg);
     --stroke-color: #ED145B;
     --surface-color: transparent;
     --surface-color-hover: #ED145B;
     --highlight-color: rgba(255, 255, 255, 0.2);
-    --switch-bg-url: url(/assets/switch-light.svg);
+    --switch-bg-url: url(assets/switch-light.svg);
 }
 
 .dark {
     --text-color: #ED145B;
     --text-color-hover: #ffff;
-    --bg-url: url(/assets/light-backgroung.svg);
-    --bg-url-mobile: url(/assets/light-backgroung-mobile.svg);
+    --bg-url: url(assets/light-backgroung.svg);
+    --bg-url-mobile: url(assets/light-backgroung-mobile.svg);
     --stroke-color: #ED145B;
     --surface-color: transparent;
     --surface-color-hover: #ED145B;
     --highlight-color: rgba(39, 38, 38, 0.2);
-    --switch-bg-url: url(/assets/switch-dark.svg);
+    --switch-bg-url: url(assets/switch-dark.svg);
 }
 
 
